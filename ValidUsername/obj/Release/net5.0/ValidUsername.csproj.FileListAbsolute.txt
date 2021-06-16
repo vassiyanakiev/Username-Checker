@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\ValidUsername\bin\Release\net5.0\ValidUsername.exe
+C:\Users\PC\source\repos\ValidUsername\bin\Release\net5.0\ValidUsername.deps.json
+C:\Users\PC\source\repos\ValidUsername\bin\Release\net5.0\ValidUsername.runtimeconfig.json
+C:\Users\PC\source\repos\ValidUsername\bin\Release\net5.0\ValidUsername.runtimeconfig.dev.json
+C:\Users\PC\source\repos\ValidUsername\bin\Release\net5.0\ValidUsername.dll
+C:\Users\PC\source\repos\ValidUsername\bin\Release\net5.0\ref\ValidUsername.dll
+C:\Users\PC\source\repos\ValidUsername\bin\Release\net5.0\ValidUsername.pdb
+C:\Users\PC\source\repos\ValidUsername\obj\Release\net5.0\ValidUsername.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ValidUsername\obj\Release\net5.0\ValidUsername.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ValidUsername\obj\Release\net5.0\ValidUsername.AssemblyInfo.cs
+C:\Users\PC\source\repos\ValidUsername\obj\Release\net5.0\ValidUsername.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ValidUsername\obj\Release\net5.0\ValidUsername.dll
+C:\Users\PC\source\repos\ValidUsername\obj\Release\net5.0\ref\ValidUsername.dll
+C:\Users\PC\source\repos\ValidUsername\obj\Release\net5.0\ValidUsername.pdb
+C:\Users\PC\source\repos\ValidUsername\obj\Release\net5.0\ValidUsername.genruntimeconfig.cache
